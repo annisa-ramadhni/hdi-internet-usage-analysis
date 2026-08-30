@@ -1,0 +1,32 @@
+Country,Continent,ISO_Code,Level,GDLCODE,Region,2017,2018,2019
+Indonesia,Asia/Pacific,IDN,National,IDNt,Total,0.712,0.715,0.714
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr116,Bali,0.738,0.74,0.739
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr109,"Bangka Belitung",0.7,0.702,0.702
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr115,Banten,0.713,0.716,0.715
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr107,Bengkulu,0.723,0.725,0.725
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr112,"Central Java",0.711,0.713,0.712
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr121,"Central Kalimantan",0.69,0.692,0.692
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr125,"Central Sulawesi",0.694,0.697,0.696
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr101,"DI Aceh",0.717,0.72,0.719
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr113,"DI Yogyakarta",0.762,0.765,0.764
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr110,"DKI Jakarta",0.765,0.768,0.768
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr114,"East Java",0.71,0.713,0.712
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr123,"East Kalimantan",0.733,0.735,0.735
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr118,"East Nusa Tenggara",0.658,0.661,0.66
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr119,"East Timor",,,
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr128,Gorontalo,0.674,0.676,0.675
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr130,"Irian Jaya (Papua and Papua Barat)",0.66,0.662,0.662
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr105,Jambi,0.706,0.709,0.708
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr108,Lampung,0.702,0.704,0.704
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr129,Maluku,0.7,0.703,0.702
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr124,"North Sulawesi",0.725,0.727,0.727
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr102,"North Sumatra",0.719,0.721,0.721
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr104,"Riau (incl. Riau islands)",0.724,0.726,0.726
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr122,"South Kalimantan",0.698,0.7,0.7
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr126,"South Sulawesi (incl Sulawesi Barat)",0.707,0.709,0.708
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr106,"South Sumatra",0.705,0.707,0.706
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr127,"Southeast Sulawesi",0.705,0.708,0.707
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr111,"West Java",0.714,0.716,0.716
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr120,"West Kalimantan",0.686,0.688,0.687
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr117,"West Nusa Tenggara",0.698,0.7,0.699
+Indonesia,Asia/Pacific,IDN,Subnat,IDNr103,"West Sumatra",0.735,0.738,0.737

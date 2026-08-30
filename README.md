@@ -73,17 +73,22 @@ The project follows these main stages:
 
 ## Results
 
-The analysis produced the following regression results:
+The final multiple linear regression model used heteroscedasticity-robust standard errors (HC3).
 
 | Model | R² | Main finding |
 |---|---:|---|
 | Internet → HDI | 0.437 | Positive and statistically significant relationship |
 | GDP per capita → HDI | 0.310 | Positive and statistically significant relationship |
-| Internet + GDP per capita → HDI | 0.467 | Highest explanatory power among the three models |
+| Internet + GDP per capita → HDI | 0.417 | Highest explanatory power among the models |
 
-The multiple linear regression model produced the highest R² at **0.467**. Both internet usage and regional GDP per capita had positive coefficients and were statistically significant in the model.
+The final multiple linear regression model achieved an R² of **0.417** and an adjusted R² of **0.406**.
 
-These results indicate that provinces with higher internet usage and higher regional GDP per capita tended to have higher HDI values during the period studied.
+After applying HC3 robust standard errors, both predictors remained statistically significant:
+
+- Internet usage: coefficient = **0.0007804**, p-value = **0.00178**
+- Regional GDP per capita: coefficient = **0.0000001276**, p-value = **0.00937**
+
+These results indicate that provinces with higher internet usage and higher regional GDP per capita tended to have higher HDI values during the period studied. However, the analysis identifies statistical associations and does not by itself establish causality.
 
 ## My Contributions
 
